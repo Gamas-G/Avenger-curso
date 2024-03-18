@@ -17,4 +17,4 @@
 * Wasp
 * Antman
 * Nick Fury
-* Yo quese
+* Yo quese, se hace la forma corta
